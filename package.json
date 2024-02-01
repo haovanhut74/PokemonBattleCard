@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@ar-js-org/artoolkit5-js": "^0.3.0",
+    "ar.js": "^2.0.8",
+    "load-bmfont": "^1.4.1",
+    "three": "^0.160.1",
+    "three-bmfont-text": "^3.0.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.12"
+  },
+  "scripts": {
+    "start": "vite"
+  }
+}
